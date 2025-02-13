@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.deloitte.accelerator</groupId>
-	<artifactId>spring-boot-customer-api</artifactId>
+	<artifactId>example-customer-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-customer-api</name>
 	<description>Spring Boot accelerator project</description>
